@@ -1,0 +1,10 @@
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\bin\Debug\MechanicsOfMaterials.exe.config
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\bin\Debug\MechanicsOfMaterials.exe
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\bin\Debug\MechanicsOfMaterials.pdb
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.csprojAssemblyReference.cache
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.Form1.resources
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.Properties.Resources.resources
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.csproj.GenerateResource.cache
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.exe
+C:\Users\john\Desktop\CourseDesign\MechanicsOfMaterials\MechanicsOfMaterials\MechanicsOfMaterials\obj\Debug\MechanicsOfMaterials.pdb
